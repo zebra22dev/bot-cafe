@@ -1,4 +1,4 @@
-"""Bot de promoções de café -> WhatsApp (via CallMeBot).
+"""Bot de promoções de café -> WhatsApp (via Green-API ou CallMeBot).
 
 Fontes: Promobit, Gatry, canais públicos de promoções no Telegram
 dezenas de lojas e torrefações (Shopify, Nuvemshop, WooCommerce, VTEX)
@@ -19,8 +19,11 @@ ESTADO = os.path.join(PASTA, "estado.json")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                     "(KHTML, like Gecko) Chrome/130 Safari/537.36",
       "Accept-Language": "pt-BR"}
-PHONE = os.environ.get("WHATSAPP_PHONE", "")
-APIKEY = os.environ.get("CALLMEBOT_APIKEY", "")
+PHONE = os.environ.get("WHATSAPP_PHONE", "")          # ex: 5519999998888
+APIKEY = os.environ.get("CALLMEBOT_APIKEY", "")        # opção 1: CallMeBot
+GREEN_URL = os.environ.get("GREENAPI_URL", "") or "https://api.green-api.com"  # opção 2: Green-API
+GREEN_ID = os.environ.get("GREENAPI_ID", "")
+GREEN_TOKEN = os.environ.get("GREENAPI_TOKEN", "")
 PALAVRAS_VAZIAS = {"com", "para", "de", "da", "do", "das", "dos", "em", "e", "kit", "cor",
                    "preto", "preta", "branco", "branca", "inox", "110v", "127v", "220v", "bivolt"}
 
@@ -412,12 +415,17 @@ def formatar(o, av):
     return f"{topo}*{o['titulo']}*\n{p}{loja}{cupom}\n{av['motivo']}\n{o['link']}"
 
 def enviar(texto):
-    if not PHONE or not APIKEY:
+    if PHONE and GREEN_ID and GREEN_TOKEN:
+        url = f"{GREEN_URL.rstrip('/')}/waInstance{GREEN_ID}/sendMessage/{GREEN_TOKEN}"
+        r = requests.post(url, json={"chatId": f"{PHONE}@c.us", "message": texto}, timeout=30)
+        print("WhatsApp (Green-API):", r.status_code, "" if r.ok else r.text[:200])
+    elif PHONE and APIKEY:
+        url = (f"https://api.callmebot.com/whatsapp.php?phone={PHONE}"
+               f"&text={urllib.parse.quote(texto)}&apikey={APIKEY}")
+        print("WhatsApp (CallMeBot):", requests.get(url, timeout=30).status_code)
+    else:
         print("[teste – sem credenciais]\n" + texto + "\n")
         return
-    url = (f"https://api.callmebot.com/whatsapp.php?phone={PHONE}"
-           f"&text={urllib.parse.quote(texto)}&apikey={APIKEY}")
-    print("WhatsApp:", requests.get(url, timeout=30).status_code)
     time.sleep(5)
 
 
