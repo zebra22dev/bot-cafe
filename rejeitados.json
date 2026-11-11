@@ -20,7 +20,7 @@
   "preco": 35.18,
   "link": "https://pt.aliexpress.com/item/1005013244552032.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "51 53 cafe fundo plano prensa"
  },
  {
@@ -32,7 +32,55 @@
   "preco": 5.99,
   "link": "https://pt.aliexpress.com/item/1005006127377694.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "balanca balanca cozinha digital eletronica mini"
+ },
+ {
+  "data": "2026-11-11",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Tres",
+  "titulo": "Cafeteira Tres Automática Lov Vermelha Vermelho",
+  "loja": "Mercado Livre",
+  "preco": 246.9,
+  "link": "https://www.promobit.com.br/oferta/cafeteira-tres-automatica-lov-vermelha-vermelho-3201573/",
+  "vezes": 1,
+  "novo": false,
+  "chave": "automatica cafeteira lov tres vermelha vermelho"
+ },
+ {
+  "data": "2026-11-11",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Rotativo",
+  "titulo": "Distribuidor de Pó de Café Profissional Rotativo com Agulha, Altura Ajustável e Fixação Magnética para Espresso",
+  "loja": "AliExpress",
+  "preco": 35.99,
+  "link": "https://pt.aliexpress.com/item/1005013324479883.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "agulha cafe distribuidor po profissional rotativo"
+ },
+ {
+  "data": "2026-11-11",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Agitador",
+  "titulo": "Agitador Espresso para Agitador de Café em Pó, Ferramenta de Distribuição para Portafilter, WDT, 51mm, 54mm, 53mm, 58mm",
+  "loja": "AliExpress",
+  "preco": 23.18,
+  "link": "https://pt.aliexpress.com/item/1005006868001197.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "agitador agitador cafe espresso ferramenta po"
+ },
+ {
+  "data": "2026-11-11",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Núcleo",
+  "titulo": "Mini mão agitar moagem manual, Aço inoxidável conveniente, Núcleo cerâmico, Moedor de café, Máquina de café visual, Novo",
+  "loja": "AliExpress",
+  "preco": 5.99,
+  "link": "https://pt.aliexpress.com/item/1005007345202685.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "aco agitar manual mao mini moagem"
  }
 ]
