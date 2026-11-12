@@ -92,7 +92,7 @@
   "preco": 27.0,
   "link": "https://cupom.cc/l9YGr9Ma",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "alca borossilicato jarra mimo style vidro"
  },
  {
@@ -104,7 +104,7 @@
   "preco": 28.41,
   "link": "https://pt.aliexpress.com/item/1005011708287830.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "base cafe plana roscada tamper tamper"
  },
  {
@@ -116,7 +116,7 @@
   "preco": 26.65,
   "link": "https://pt.aliexpress.com/item/1005005913467826.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe filtro filtro funil papel sem"
  },
  {
@@ -128,7 +128,19 @@
   "preco": 58.79,
   "link": "https://pt.aliexpress.com/item/1005012155549833.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "aco bico cafe chaleira gooseneck inoxidavel"
+ },
+ {
+  "data": "2026-11-12",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Homix",
+  "titulo": "Suporte de filtro de café reutilizável sem fundo de 51 mm para Homix, 60 mm, 15-20 bar, para peças de máquina de café expresso",
+  "loja": "AliExpress",
+  "preco": 21.14,
+  "link": "https://pt.aliexpress.com/item/1005009742912319.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "cafe filtro fundo reutilizavel sem suporte"
  }
 ]
