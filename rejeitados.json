@@ -262,5 +262,17 @@
   "vezes": 1,
   "novo": false,
   "chave": "aco escala espumar inoxidavel jarra leite"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Distribuidor Conjunto de 7 peças: Kit de compactador de café expresso 51/53/58 mm, distribuidor de café, almofada para compactação de pó, acessórios p",
+  "loja": "AliExpress",
+  "preco": 195.99,
+  "link": "https://pt.aliexpress.com/item/1005013592119018.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "cafe compactador conjunto distribuidor expresso pecas"
  }
 ]
