@@ -152,7 +152,7 @@
   "preco": 43.99,
   "link": "https://www.promobit.com.br/oferta/cafeteira-italiana-inox-carneiri-para-6-xicaras-3206620/",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafeteira carneiri italiana xicaras"
  },
  {
@@ -164,7 +164,7 @@
   "preco": 23.84,
   "link": "https://pechin.co/149166",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "400g america cafe cappuccino normal preco"
  },
  {
@@ -176,7 +176,7 @@
   "preco": 6.99,
   "link": "https://pt.aliexpress.com/item/1005010572744465.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "aco agitador cafe compactador inoxidavel po"
  },
  {
@@ -188,7 +188,7 @@
   "preco": 11.9,
   "link": "https://pt.aliexpress.com/item/1005010064697850.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "112 30ml espuma jarro mini zyal"
  },
  {
@@ -200,7 +200,7 @@
   "preco": 18.95,
   "link": "https://pt.aliexpress.com/item/1005010443653095.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "12oz aco espuma jarro leite manual"
  },
  {
@@ -212,7 +212,7 @@
   "preco": 14.41,
   "link": "https://pt.aliexpress.com/item/1005010155290554.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe distribuicao distribuidor espresso ferramenta nivelador"
  },
  {
@@ -224,7 +224,43 @@
   "preco": 20.79,
   "link": "https://pt.aliexpress.com/item/1005013582798163.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe divertida espumar jarra leite mini"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Isolada",
+  "titulo": "Garrafa Térmica 1200ml Isolada A Vácuo Água Gelada Esporte",
+  "loja": "Mercado Livre",
+  "preco": 39.67,
+  "link": "https://www.promobit.com.br/oferta/garrafa-termica-1200ml-isolada-a-vacuo-agua-gelada-esporte-3210452/",
+  "vezes": 1,
+  "novo": false,
+  "chave": "1200ml agua garrafa isolada termica vacuo"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Grande",
+  "titulo": "Cafeteira Elétrica 30 Xícaras Café Jarra Vidro Grande Cor Preta - R$ 47,76",
+  "loja": "Mercado Livre",
+  "preco": 47.46,
+  "link": "https://www.promobit.com.br/oferta/cafeteira-eletrica-30-xicaras-cafe-jarra-vidro-grande-cor-preta-r-4776-3209125/",
+  "vezes": 1,
+  "novo": false,
+  "chave": "30 cafe cafeteira eletrica jarra xicaras"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Espumar",
+  "titulo": "Jarra de Aço Inoxidável para Espumar Leite com Escala Interna, Jarra para Vaporizar Leite para Espresso, para Preparar Latte e Cappuccino em Casa e Ca",
+  "loja": "AliExpress",
+  "preco": 10.99,
+  "link": "https://pt.aliexpress.com/item/1005007037957729.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "aco escala espumar inoxidavel jarra leite"
  }
 ]
