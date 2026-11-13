@@ -154,5 +154,53 @@
   "vezes": 1,
   "novo": true,
   "chave": "cafeteira carneiri italiana xicaras"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Cappuccino",
+  "titulo": "É 400g de Cappuccino AMÉRICA ☕ Com Preço de Café Normal 😱 MUITO BARATOOO!!",
+  "loja": "Telegram @pechinchou",
+  "preco": 23.84,
+  "link": "https://pechin.co/149166",
+  "vezes": 1,
+  "novo": true,
+  "chave": "400g america cafe cappuccino normal preco"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Compactador",
+  "titulo": "Compactador de café em pó de aço inoxidável, agitador e nivelador para espresso – ferramenta essencial para baristas e amantes de café.",
+  "loja": "AliExpress",
+  "preco": 6.99,
+  "link": "https://pt.aliexpress.com/item/1005010572744465.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco agitador cafe compactador inoxidavel po"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "ZYAL-1",
+  "titulo": "【ZYAL-1】12.5/30ml mini jarro de espuma de leite de café latte arte jarro de espuma de leite jarro de medição de aço inoxidável",
+  "loja": "AliExpress",
+  "preco": 11.9,
+  "link": "https://pt.aliexpress.com/item/1005010064697850.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "112 30ml espuma jarro mini zyal"
+ },
+ {
+  "data": "2026-11-13",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Jarro",
+  "titulo": "Jarro manual de espuma de leite, 5/12oz, aço inoxidável, portátil, espuma de leite, para cappuccino, latte, arte, uso doméstico, escritório, café, sup",
+  "loja": "AliExpress",
+  "preco": 18.95,
+  "link": "https://pt.aliexpress.com/item/1005010443653095.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "12oz aco espuma jarro leite manual"
  }
 ]
