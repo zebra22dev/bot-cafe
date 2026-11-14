@@ -286,5 +286,41 @@
   "vezes": 1,
   "novo": false,
   "chave": "ao cafe jarra premium resistente vidro"
+ },
+ {
+  "data": "2026-11-14",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Tampa",
+  "titulo": "💥 Garrafa Térmica Inox 900ml Tampa Flip Straw Canudo Com Alça",
+  "loja": "Telegram @ofertasdodia",
+  "preco": 44.0,
+  "link": "https://meli.la/1igQsgw",
+  "vezes": 1,
+  "novo": true,
+  "chave": "900ml flip garrafa straw tampa termica"
+ },
+ {
+  "data": "2026-11-14",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Ferramenta",
+  "titulo": "Ferramenta de agitação de café expresso, agitador de pó de café, distribuidor de agulha, cabo de madeira, ferramenta de distribuição manual de barista",
+  "loja": "AliExpress",
+  "preco": 5.99,
+  "link": "https://pt.aliexpress.com/item/1005007151183928.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "agitacao agitador cafe expresso ferramenta po"
+ },
+ {
+  "data": "2026-11-14",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Silencioso",
+  "titulo": "Moedor de Café Manual Silencioso com Núcleo Cerâmico, Retrô, Ajustável, de Moagem Rápida para Uso Doméstico",
+  "loja": "AliExpress",
+  "preco": 15.26,
+  "link": "https://pt.aliexpress.com/item/1005012777189790.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "cafe ceramico manual moedor nucleo silencioso"
  }
 ]
