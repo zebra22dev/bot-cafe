@@ -334,5 +334,41 @@
   "vezes": 1,
   "novo": false,
   "chave": "cafe espuma jarra leite leite preparar"
+ },
+ {
+  "data": "2026-11-15",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Vaporização",
+  "titulo": "Jarra de Vaporização de Café para Barista em Aço Inoxidável 350ml 600ml 1000ml Perfeita para Latte Art e Espuma de Leite em Cafés",
+  "loja": "AliExpress",
+  "preco": 12.04,
+  "link": "https://pt.aliexpress.com/item/1005012237628008.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco barista cafe inoxidavel jarra vaporizacao"
+ },
+ {
+  "data": "2026-11-15",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Peça",
+  "titulo": "1 Peça Jarra Medidora de Aço Inoxidável para Espumar Leite e Café com Bico Dosador, para Espresso, Creme e Latte Art, Utensílio para Café",
+  "loja": "AliExpress",
+  "preco": 8.91,
+  "link": "https://pt.aliexpress.com/item/1005012855634223.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco espumar inoxidavel jarra medidora peca"
+ },
+ {
+  "data": "2026-11-15",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Chaleira de aço inoxidável para preparar café por infusão, com bico longo e estreito, ideal para uso doméstico, para baristas e para preparar café na ",
+  "loja": "AliExpress",
+  "preco": 17.68,
+  "link": "https://pt.aliexpress.com/item/1005013341418863.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco cafe chaleira inoxidavel por preparar"
  }
 ]
