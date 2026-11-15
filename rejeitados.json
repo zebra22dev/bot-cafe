@@ -296,7 +296,7 @@
   "preco": 44.0,
   "link": "https://meli.la/1igQsgw",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "900ml flip garrafa straw tampa termica"
  },
  {
@@ -308,7 +308,7 @@
   "preco": 5.99,
   "link": "https://pt.aliexpress.com/item/1005007151183928.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "agitacao agitador cafe expresso ferramenta po"
  },
  {
@@ -320,7 +320,7 @@
   "preco": 15.26,
   "link": "https://pt.aliexpress.com/item/1005012777189790.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe ceramico manual moedor nucleo silencioso"
  },
  {
@@ -332,7 +332,7 @@
   "preco": 30.69,
   "link": "https://pt.aliexpress.com/item/1005013616016323.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe espuma jarra leite leite preparar"
  }
 ]
