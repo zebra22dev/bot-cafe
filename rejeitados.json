@@ -428,7 +428,7 @@
   "preco": 27.29,
   "link": "https://s.shopee.com.br/70LlPju8C0",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "chaleira eletrica jarra litros ou prateada"
  },
  {
@@ -440,7 +440,19 @@
   "preco": 11.28,
   "link": "https://pt.aliexpress.com/item/1005013446802965.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "bandeja cafe dosagem graos multicolorida reforcada"
+ },
+ {
+  "data": "2026-11-17",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Vinni",
+  "titulo": "Café Premium Vinni Coffee em Grãos 1kg",
+  "loja": "Vinni Coffee",
+  "preco": 89.0,
+  "link": "https://vinnicoffee.com.br/produtos/cafe-premium-vinni-coffee-em-graos-1kg/?entry_path=category",
+  "vezes": 1,
+  "novo": false,
+  "chave": "1kg cafe coffee graos premium vinni"
  }
 ]
