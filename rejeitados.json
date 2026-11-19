@@ -572,7 +572,7 @@
   "preco": 47.4,
   "link": "https://www.promobit.com.br/oferta/cafeteira-italiana-moka-expresso-inox-300ml-para-6-xicaras-cafe-mais-encorpado-intenso-e-aromatico-preparo-rapido-sem-filtro-design-classico-3178276/",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "300ml cafeteira expresso italiana moka xicaras"
  },
  {
@@ -584,7 +584,7 @@
   "preco": 184.99,
   "link": "https://pt.aliexpress.com/item/1005013579448294.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "1pc graos manual moedor moedor vintage"
  },
  {
@@ -596,7 +596,7 @@
   "preco": 63.3,
   "link": "https://pt.aliexpress.com/item/1005013563593071.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "aco copo espumar ferramenta inoxidavel leite"
  },
  {
@@ -608,7 +608,7 @@
   "preco": 180.99,
   "link": "https://pt.aliexpress.com/item/1005013579806263.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "aco bico cafe chaleira gotejamento inoxidavel"
  }
 ]
