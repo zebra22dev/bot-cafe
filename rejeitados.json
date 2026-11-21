@@ -632,7 +632,7 @@
   "preco": 27.48,
   "link": "https://www.promobit.com.br/oferta/cafeteira-prensa-francesa-de-vidro-350ml-cremeira-inox-com-tampa-preta-prata-3150598/",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "350ml cafeteira cremeira francesa prensa vidro"
  },
  {
@@ -644,7 +644,7 @@
   "preco": 38.0,
   "link": "https://www.promobit.com.br/oferta/chaleira-eletrica-inox-2-litros-1500w-jarra-desligamento-automatico-aquecimento-rapido-bule-pitia-3184834/",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "1500w chaleira desligamento eletrica jarra litros"
  },
  {
@@ -656,7 +656,7 @@
   "preco": 78.5,
   "link": "https://pechin.co/120434",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "ama cafezinho pacotes qualidade quem um"
  },
  {
@@ -668,7 +668,7 @@
   "preco": 24.98,
   "link": "https://pt.aliexpress.com/item/1005013624370484.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe cafe distribuicao distribuidor ferramenta uniformizar"
  },
  {
@@ -680,7 +680,7 @@
   "preco": 22.81,
   "link": "https://pt.aliexpress.com/item/1005013612581185.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "agitadores agulhas cafe conjunto distribuidoras expresso"
  },
  {
@@ -692,7 +692,55 @@
   "preco": 11.18,
   "link": "https://pt.aliexpress.com/item/1005010795612089.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "12 30ml espumar jarra leite mini"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Pítia",
+  "titulo": "Chaleira Elétrica Inox 2 Litros Jarra Desligamento Automático Aquecimento Rápido Bule Pítia",
+  "loja": "Mercado Livre",
+  "preco": 40.0,
+  "link": "https://www.promobit.com.br/oferta/chaleira-eletrica-inox-2-litros-jarra-desligamento-automatico-aquecimento-rapido-bule-pitia-3237786/",
+  "vezes": 1,
+  "novo": false,
+  "chave": "automatico chaleira desligamento eletrica jarra litros"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "1 peça 51/53/58mm calcadeira de café expresso com alça de madeira preta, calcadores de café distribuidores para 51/54/58mm portafiltros ferramentas de",
+  "loja": "AliExpress",
+  "preco": 16.33,
+  "link": "https://pt.aliexpress.com/item/1005006109684748.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "51 53 58mm cafe calcadeira peca"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Moedor de café manual portátil, em aço inoxidável, com rebarbas de cerâmica, configurações ajustáveis, ferramentas portáteis de manivela",
+  "loja": "AliExpress",
+  "preco": 48.51,
+  "link": "https://pt.aliexpress.com/item/1005010527619037.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "aco cafe inoxidavel manual moedor portatil"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Moedor de café manual portátil moedores de grãos de café mini aço inoxidável fácil mão moinho artesanal foamer acessórios de cozinha ferramenta",
+  "loja": "AliExpress",
+  "preco": 26.69,
+  "link": "https://pt.aliexpress.com/item/1005006331238858.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "cafe graos manual moedor moedores portatil"
  }
 ]
