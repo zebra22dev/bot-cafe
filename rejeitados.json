@@ -742,5 +742,17 @@
   "vezes": 1,
   "novo": false,
   "chave": "cafe graos manual moedor moedores portatil"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Ferramenta",
+  "titulo": "Ferramenta de Distribuição de Espresso WDT, Agulha de Aço Inoxidável, Misturador de Café, Anel de Dosagem, Acessórios para Barista de Café",
+  "loja": "AliExpress",
+  "preco": 14.26,
+  "link": "https://pt.aliexpress.com/item/1005012153995918.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco agulha distribuicao espresso ferramenta wdt"
  }
 ]
