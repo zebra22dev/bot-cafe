@@ -658,5 +658,41 @@
   "vezes": 1,
   "novo": true,
   "chave": "ama cafezinho pacotes qualidade quem um"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Distribuidor de café, ferramenta para uniformizar a distribuição do café expresso/nivelador, com 3 inclinações ajustáveis, ideal para compactar o café",
+  "loja": "AliExpress",
+  "preco": 24.98,
+  "link": "https://pt.aliexpress.com/item/1005013624370484.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "cafe cafe distribuicao distribuidor ferramenta uniformizar"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "WDT",
+  "titulo": "Conjunto de 2 agulhas distribuidoras para café expresso, agitadores de pó de café com cabo de madeira, ferramentas WDT, acessórios para barista",
+  "loja": "AliExpress",
+  "preco": 22.81,
+  "link": "https://pt.aliexpress.com/item/1005013612581185.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "agitadores agulhas cafe conjunto distribuidoras expresso"
+ },
+ {
+  "data": "2026-11-21",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Espumar",
+  "titulo": "Jarra Mini de 12.5/30ml para Espumar Leite de Café, Jarra de Medição em Aço Inoxidável para Latte Art",
+  "loja": "AliExpress",
+  "preco": 11.18,
+  "link": "https://pt.aliexpress.com/item/1005010795612089.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "12 30ml espumar jarra leite mini"
  }
 ]
