@@ -456,14 +456,14 @@
   "chave": "1kg cafe coffee graos premium vinni"
  },
  {
-  "data": "2026-11-17",
+  "data": "2026-11-22",
   "motivo": "marca não reconhecida",
   "possivel_marca": "Despeje",
   "titulo": "Despeje sobre cafeteira, servidor de café de vidro borosilicato com tampa de vidro, gotejador de café para casa café restaurante,",
   "loja": "AliExpress",
-  "preco": 32.19,
+  "preco": 21.71,
   "link": "https://pt.aliexpress.com/item/1005010666007052.html",
-  "vezes": 1,
+  "vezes": 2,
   "novo": false,
   "chave": "cafe cafeteira despeje servidor sobre vidro"
  },
@@ -540,14 +540,14 @@
   "chave": "350 cafeteira francesa ml plastico prensa"
  },
  {
-  "data": "2026-11-18",
+  "data": "2026-11-22",
   "motivo": "marca não reconhecida",
   "possivel_marca": "Mimo",
   "titulo": "Mimo Style Cafeteira Prensa Francesa, Com Haste E Alça, Resistente, Suporta Altas E Baixas Temperaturas (-20 °c A 180 °c), Excelente Sistema De Fil",
   "loja": "Amazon",
-  "preco": 25.0,
-  "link": "https://www.promobit.com.br/oferta/mimo-style-cafeteira-prensa-francesa-com-haste-e-alca-resistente-suporta-altas-e-baixas-temperaturas-20-c-a-180-c-excelente-sistema-de-fil-3087926/",
-  "vezes": 1,
+  "preco": 22.19,
+  "link": "https://www.promobit.com.br/oferta/mimo-style-cafeteira-prensa-francesa-com-haste-e-alca-3191452/",
+  "vezes": 2,
   "novo": false,
   "chave": "cafeteira francesa haste mimo prensa style"
  },
@@ -754,5 +754,77 @@
   "vezes": 1,
   "novo": true,
   "chave": "aco agulha distribuicao espresso ferramenta wdt"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Distribuidor de café ajustável com 3 inclinações angulares, tamper de palma para portafiltros de 51/53/58mm, ferramenta de distribuição de café expres",
+  "loja": "AliExpress",
+  "preco": 13.52,
+  "link": "https://pt.aliexpress.com/item/1005012003223326.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "ajustavel angulares cafe distribuidor inclinacoes tamper"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Agitador",
+  "titulo": "Agitador de café agulha ferramenta de agitação de café expresso pó agitador distribuidor alça de madeira nivelador wdt ferramentas barista acessórios",
+  "loja": "AliExpress",
+  "preco": 14.2,
+  "link": "https://pt.aliexpress.com/item/1005008742094094.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "agitacao agitador agulha cafe cafe ferramenta"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Agitador",
+  "titulo": "Agitador de café expresso wdt, agulha com 8 agulhas, suporte de absorção magnética, barista, ferramenta de distribuição de agitação de café com",
+  "loja": "AliExpress",
+  "preco": 11.85,
+  "link": "https://pt.aliexpress.com/item/1005007027964457.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "agitador agulha agulhas cafe expresso wdt"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Ferramenta",
+  "titulo": "Ferramenta Magnética WDT, Agulha Misturadora de Café Expresso, Distribuidor de Café com Suporte, Distribuidor de Agulha para Café, Ferramentas de Bari",
+  "loja": "AliExpress",
+  "preco": 19.4,
+  "link": "https://pt.aliexpress.com/item/1005010493921910.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "agulha cafe ferramenta magnetica misturadora wdt"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Listrado",
+  "titulo": "Listrado simplicidade trabalho manual pequeno pote de leite vidro resistente ao calor requintado copo de leite dispensador de chá pote de leite copo d",
+  "loja": "AliExpress",
+  "preco": 9.15,
+  "link": "https://pt.aliexpress.com/item/1005006174014431.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "listrado manual pequeno pote simplicidade trabalho"
+ },
+ {
+  "data": "2026-11-22",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Servidor de café de vidro 600ml, reutilizável, chá gelado, bebida, gotejamento, pote de acampamento doméstico, acessórios para bebidas",
+  "loja": "AliExpress",
+  "preco": 6.99,
+  "link": "https://pt.aliexpress.com/item/1005007460635476.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "600ml cafe cha reutilizavel servidor vidro"
  }
 ]
