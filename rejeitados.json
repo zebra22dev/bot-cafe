@@ -860,7 +860,7 @@
   "preco": 50.0,
   "link": "https://www.promobit.com.br/oferta/cafeteira-italiana-moka-aluminio-12-xicaras-3241643/",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "12 aluminio cafeteira italiana moka xicaras"
  },
  {
@@ -872,7 +872,7 @@
   "preco": 17.88,
   "link": "https://www.promobit.com.br/oferta/cafeteira-prensa-francesa-350ml-mimo-style-3241660/",
   "vezes": 2,
-  "novo": true,
+  "novo": false,
   "chave": "350ml cafeteira francesa mimo prensa style"
  },
  {
@@ -884,7 +884,7 @@
   "preco": 34.0,
   "link": "https://pechin.co/91623",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "8l aquecimento chaleira eletrica rapido"
  },
  {
@@ -896,7 +896,7 @@
   "preco": 89.0,
   "link": "https://www.cafestore.com.br/hojicha-cha-verde-torrado-namu-matcha-30-g-5149/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cha hojicha matcha namu torrado verde"
  },
  {
@@ -908,7 +908,7 @@
   "preco": 80.0,
   "link": "https://www.cafestore.com.br/puri-blend-exclusivo-de-ube-e-taro-da-namu-matcha-50-g-5148/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "blend exclusivo namu puri taro ube"
  },
  {
@@ -920,7 +920,7 @@
   "preco": 415.8,
   "link": "https://www.cafestore.com.br/moedor-de-cafe-manual-nutti-rosa-30-g/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "30 cafe manual moedor nutti rosa"
  },
  {
@@ -932,7 +932,7 @@
   "preco": 94.5,
   "link": "https://www.cafestore.com.br/chocolate-cremoso-maxi-mixato-900g-3097/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "900g chocolate cremoso maxi mixato"
  },
  {
@@ -944,7 +944,7 @@
   "preco": 107.0,
   "link": "https://www.cafestore.com.br/chocolate-cremoso-30--cacau-mixato-900g-3096/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "30 900g cacau chocolate cremoso mixato"
  },
  {
@@ -956,7 +956,7 @@
   "preco": 54.9,
   "link": "https://www.cafestore.com.br/cha-dolce-mate-gelado-em-po-1-kg_1685/p",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cha dolce gelado kg mate po"
  },
  {
@@ -968,7 +968,7 @@
   "preco": 6.99,
   "link": "https://pt.aliexpress.com/item/1005013135421662.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe cafe coador filtro reutilizavel suporte"
  },
  {
@@ -980,7 +980,7 @@
   "preco": 5.99,
   "link": "https://pt.aliexpress.com/item/1005008406484265.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "ervas liga moedor moinho polegadas zinco"
  }
 ]
