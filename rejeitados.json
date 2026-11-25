@@ -1004,7 +1004,7 @@
   "preco": 12.02,
   "link": "https://pt.aliexpress.com/item/1005013676227031.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "aco agulhas distribuidor distribuidor inoxidavel unidade"
  },
  {
@@ -1016,7 +1016,7 @@
   "preco": 8.55,
   "link": "https://pt.aliexpress.com/item/1005009809258209.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "agitador agulha cafe cafe expresso ferramenta"
  },
  {
@@ -1028,7 +1028,7 @@
   "preco": 12.95,
   "link": "https://pt.aliexpress.com/item/1005012156231689.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "100 50 ceramica jarra leite ywdl"
  },
  {
@@ -1040,7 +1040,43 @@
   "preco": 358.83,
   "link": "https://pt.aliexpress.com/item/1005013263150167.html",
   "vezes": 1,
-  "novo": true,
+  "novo": false,
   "chave": "cafe dois funcionamento manual modos moedor"
+ },
+ {
+  "data": "2026-11-25",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Moderna",
+  "titulo": "Jarra de Leite de Aço Inoxidável Moderna 100/350/600/1000ml para Artesanato e Espuma de Leite, Jarra para Café Latte e Arte em Espuma de Leite",
+  "loja": "AliExpress",
+  "preco": 21.06,
+  "link": "https://pt.aliexpress.com/item/1005007170877648.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "100 aco inoxidavel jarra leite moderna"
+ },
+ {
+  "data": "2026-11-25",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Cozinha",
+  "titulo": "Balança Digital de Cozinha – Alta Precisão 0,1g a 10kg Metálica",
+  "loja": "AliExpress",
+  "preco": 30.42,
+  "link": "https://pt.aliexpress.com/item/1005012842759287.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "1g alta balanca cozinha digital precisao"
+ },
+ {
+  "data": "2026-11-25",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Pour-over",
+  "titulo": "Chaleira de Café Pour-over de 600ml com Alça de Madeira, Bico Gooseneck e Display de Temperatura, Compacta e de Grau Alimentício para Uso em Bancada",
+  "loja": "AliExpress",
+  "preco": 33.25,
+  "link": "https://pt.aliexpress.com/item/1005013054616916.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "600ml alca cafe chaleira over pour"
  }
 ]
