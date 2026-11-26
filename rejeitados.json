@@ -204,14 +204,14 @@
   "chave": "12oz aco espuma jarro leite manual"
  },
  {
-  "data": "2026-11-24",
+  "data": "2026-11-26",
   "motivo": "marca não reconhecida",
   "possivel_marca": "Ferramenta",
   "titulo": "Distribuidor de Café Ferramenta de Distribuição/Nivelador de Espresso com 3 Rampas Anguladas Ajustáveis, Tamper de Palma, Compatível com Porta-Filtros",
   "loja": "AliExpress",
-  "preco": 23.38,
+  "preco": 15.99,
   "link": "https://pt.aliexpress.com/item/1005012961134020.html",
-  "vezes": 3,
+  "vezes": 4,
   "novo": false,
   "chave": "cafe distribuicao distribuidor espresso ferramenta nivelador"
  },
@@ -1078,5 +1078,17 @@
   "vezes": 1,
   "novo": false,
   "chave": "600ml alca cafe chaleira over pour"
+ },
+ {
+  "data": "2026-11-26",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "51/53/58mm calcadeira de café de madeira de nogueira-mazer de café expresso manual com pressão constante, ferramenta profissional de barista para café",
+  "loja": "AliExpress",
+  "preco": 39.99,
+  "link": "https://pt.aliexpress.com/item/1005009508871683.html",
+  "vezes": 1,
+  "novo": false,
+  "chave": "51 53 58mm cafe calcadeira madeira"
  }
 ]
