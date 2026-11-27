@@ -48,14 +48,14 @@
   "chave": "automatica cafeteira lov tres vermelha vermelho"
  },
  {
-  "data": "2026-11-11",
+  "data": "2026-11-27",
   "motivo": "marca não reconhecida",
   "possivel_marca": "Rotativo",
   "titulo": "Distribuidor de Pó de Café Profissional Rotativo com Agulha, Altura Ajustável e Fixação Magnética para Espresso",
   "loja": "AliExpress",
-  "preco": 35.99,
+  "preco": 29.99,
   "link": "https://pt.aliexpress.com/item/1005013324479883.html",
-  "vezes": 1,
+  "vezes": 2,
   "novo": false,
   "chave": "agulha cafe distribuidor po profissional rotativo"
  },
@@ -1080,14 +1080,14 @@
   "chave": "600ml alca cafe chaleira over pour"
  },
  {
-  "data": "2026-11-26",
+  "data": "2026-11-27",
   "motivo": "marca não reconhecida",
   "possivel_marca": "",
   "titulo": "51/53/58mm calcadeira de café de madeira de nogueira-mazer de café expresso manual com pressão constante, ferramenta profissional de barista para café",
   "loja": "AliExpress",
-  "preco": 39.99,
+  "preco": 33.99,
   "link": "https://pt.aliexpress.com/item/1005009508871683.html",
-  "vezes": 1,
+  "vezes": 2,
   "novo": false,
   "chave": "51 53 58mm cafe calcadeira madeira"
  },
@@ -1162,5 +1162,41 @@
   "vezes": 1,
   "novo": true,
   "chave": "1l 24h frio garrafa leonidas termica"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Delta",
+  "titulo": "Cafeteira de Cápsulas Delta Q MiniQool, Vermelho, 220 volts",
+  "loja": "Amazon",
+  "preco": 149.0,
+  "link": "https://www.promobit.com.br/oferta/cafeteira-de-capsulas-delta-q-miniqool-vermelho-220-volts-3264572/",
+  "vezes": 1,
+  "novo": true,
+  "chave": "220 cafeteira capsulas delta miniqool vermelho"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Distribuidor de café ferramenta de distribuição de café expresso/nivelador 3 inclinações angulares ajustável palma da mão se encaixa 51/53/58mm portát",
+  "loja": "AliExpress",
+  "preco": 11.99,
+  "link": "https://pt.aliexpress.com/item/1005006914403173.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "cafe cafe distribuicao distribuidor expresso ferramenta"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Transparente",
+  "titulo": "Transparente vidro de borosilicato espresso barista despeje sobre cafeteira servidor gotejador acessórios ferramentas",
+  "loja": "AliExpress",
+  "preco": 24.99,
+  "link": "https://pt.aliexpress.com/item/1005010111216758.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "barista borosilicato despeje espresso transparente vidro"
  }
 ]
