@@ -1090,5 +1090,77 @@
   "vezes": 1,
   "novo": false,
   "chave": "51 53 58mm cafe calcadeira madeira"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Tres",
+  "titulo": "Cafeteira Tres Automática Lov Vermelha",
+  "loja": "Mercado Livre",
+  "preco": 265.0,
+  "link": "https://www.promobit.com.br/oferta/cafeteira-tres-automatica-lov-vermelha-3261047/",
+  "vezes": 1,
+  "novo": true,
+  "chave": "automatica cafeteira lov tres vermelha"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "WISDOM",
+  "titulo": "CF WISDOM Jarro de Leite de Aço Inoxidável 600ml Latte Art Copo de Espuma de Leite Jarra de Espuma de Café Ferramentas de Barista Casa Cozinha Café Us",
+  "loja": "AliExpress",
+  "preco": 79.49,
+  "link": "https://pt.aliexpress.com/item/1005009024165174.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco cf inoxidavel jarro leite wisdom"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Precisão",
+  "titulo": "Balança Digital Precisão Cozinha 1g A 10kg Promoção",
+  "loja": "AliExpress",
+  "preco": 18.34,
+  "link": "https://pt.aliexpress.com/item/1005007141554915.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "10kg 1g balanca cozinha digital precisao"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Estilo",
+  "titulo": "Vidro Copo de Vidro Estilo Japonês Fuji, Pequena Capacidade, Resistente a Latte, Copo de Café de Alta Estética, Resistente ao Calor...",
+  "loja": "AliExpress",
+  "preco": 55.09,
+  "link": "https://pt.aliexpress.com/item/1005013624825896.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "copo estilo fuji japones vidro vidro"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Bebê",
+  "titulo": "Garrafa Térmica para Bebê 280ml Infanti Brina",
+  "loja": "Americanas",
+  "preco": 89.9,
+  "link": "https://www.americanas.com.br/garrafa-termica-para-bebe-280ml-infanti-brina-8410344/p",
+  "vezes": 1,
+  "novo": true,
+  "chave": "280ml bebe brina garrafa infanti termica"
+ },
+ {
+  "data": "2026-11-27",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Leonidas",
+  "titulo": "Garrafa Térmica Leonidas, 1l, 24h Frio E 12h Quente, Metal, Branco, Ln-bt-st1000mlw",
+  "loja": "KaBuM! (PIX)",
+  "preco": 40.49,
+  "link": "https://www.kabum.com.br/produto/1059628/garrafa-termica-leonidas-1l-24h-frio-e-12h-quente-metal-branco-ln-bt-st1000mlw",
+  "vezes": 1,
+  "novo": true,
+  "chave": "1l 24h frio garrafa leonidas termica"
  }
 ]
