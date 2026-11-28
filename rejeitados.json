@@ -1450,5 +1450,53 @@
   "vezes": 1,
   "novo": true,
   "chave": "artesanal borossilicato cafe cafeteira preparo vidro"
+ },
+ {
+  "data": "2026-11-28",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "União",
+  "titulo": "Café União Tradicional Pouch 500g",
+  "loja": "Telegram @cupons",
+  "preco": 13.99,
+  "link": "https://meli.la/1VzkKYV",
+  "vezes": 1,
+  "novo": true,
+  "chave": "500g cafe pouch tradicional uniao"
+ },
+ {
+  "data": "2026-11-28",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Agulhas",
+  "titulo": "Aço inoxidável Tamper Café com Agulhas, Espresso Em Pó, Agitador, Distribuidor, Nivelador, Ferramentas WDT, Cafe Agitando, Barista Acessórios",
+  "loja": "AliExpress",
+  "preco": 36.08,
+  "link": "https://pt.aliexpress.com/item/1005007662994350.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco agulhas cafe espresso inoxidavel tamper"
+ },
+ {
+  "data": "2026-11-28",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "",
+  "titulo": "Jarra de espuma de leite e café, 100/150/350/600ml, arte latte, espuma de leite, jarro de medição de aço inoxidável, acessório de café",
+  "loja": "AliExpress",
+  "preco": 9.94,
+  "link": "https://pt.aliexpress.com/item/1005008647571681.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "100 150 cafe espuma jarra leite"
+ },
+ {
+  "data": "2026-11-28",
+  "motivo": "marca não reconhecida",
+  "possivel_marca": "Tela",
+  "titulo": "Filtro Tela de disco de café de aço inoxidável 304, filtro de café expresso reutilizável 51 53 58mm malha para portátil, acessórios de barista, 1 peça",
+  "loja": "AliExpress",
+  "preco": 15.45,
+  "link": "https://pt.aliexpress.com/item/1005009943217786.html",
+  "vezes": 1,
+  "novo": true,
+  "chave": "aco cafe disco filtro inoxidavel tela"
  }
 ]
